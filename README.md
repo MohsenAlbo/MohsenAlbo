@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsen Alboughobeish
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript and Typescript
 - 💞️ I’m looking to collaborate on small-mid scale projects
 - 📫 How to reach me:
         Email : m.alboughobeish@outlook.com |
